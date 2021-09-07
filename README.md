@@ -1,2 +1,2 @@
-# QA_Teste_2
-QA testes 2
+# automacaoqa2
+Fazendo uma automação de teste de Backend com Cypress - Cenário: validar que o JSON retornado pelo serviço possui a chave “typeOfEstablishment” e print
